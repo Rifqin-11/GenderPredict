@@ -89,3 +89,38 @@ main{
     padding: 8px 4px;
     background: rgba(25, 42, 86, 0.21);
 }
+
+header #user{
+    font-weight: bolder;
+    color: #192a56;
+    left: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:450px){
+    html{
+        font-size: 70%;
+    }
+
+    header{
+        padding: 1rem 2rem;
+    }
+
+    main{
+        margin: 0px 20px;
+        width: 50% 50%;
+        justify-content: center;
+    }
+}

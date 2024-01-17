@@ -11,6 +11,10 @@ function showResult(name, gender, probability) {
         genderdecode = "Cewek"
     }
 
+    const user = document.getElementById("user");
+    const username = `${name}`
+    user.textContent = username 
+
     const resulttext = `Halo ${name}, Jenis kelamin kamu kemungkinan ${genderdecode} dengan persentase ${probpercentage}%`;
     
     resultElement.textContent = resulttext
