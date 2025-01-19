@@ -8,7 +8,7 @@ A simple website to predict gender based on a given name using the [Genderize.io
 - 🌐 Responsive and user-friendly design.
 
 ## 📸 Preview
-![Preview Image](./preview.png)  
+![Preview Image](./Preview.png)  
 *Add a screenshot or gif of your website here.*
 
 ## 🚀 Getting Started
